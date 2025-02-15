@@ -21,7 +21,7 @@ const introDescription = `I build, advise and invest in startups. I'm currently 
     'https://ibm.com/'
 )}** & **${generateLink('Lloyds Bank', 'https://www.tsb.co.uk/')}** based in 🇬🇧 London, UK.`;
 
-const notice = `</> Same day, different syntax </>`
+const notice = `<code>Same day, different syntax</code>`
 
 const badgeConfigs = [{
         name: 'Website',
