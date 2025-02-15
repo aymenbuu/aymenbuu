@@ -66,7 +66,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm13eDcyMWJuYzB4eHYxZjh1YXc5ZG44dzRzZng5cDZuN2Nlbnl4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGC37Ky8b5OxO/giphy.gif" />`;
+const gif = `<img align="right" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
 const factsTitle = generateTitle(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
     `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
