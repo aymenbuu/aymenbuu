@@ -13,6 +13,7 @@
 <ul>
 <li>🔭 Working on Investment Tracker <a href="https://getsubset.com/">Subset</a></li>
 <li>🧐 Helping <strong>Startups</strong> Build <strong>MVP's</strong> with <a href="https://getlinear.com/">Linear</a></li>
+<li>🎲 Developing <strong>Utility Applications</strong> and <strong>Video Games</strong> with <a href="https://sqrtt.com/">SQRT</a></li>
 <li>👨‍💻 Investing in Stocks, Crypto, &amp; Software Startups</li>
 <li>📝 Writing a fictional novel</li>
 <li>💬 Conversating with the world through <a href="https://x.com/">X</a></li>
