@@ -71,6 +71,7 @@ const factsTitle = generateTitleImage(2, `:zap: I've spent the last decade (grow
 const factsConfigs = [
     `🔭 Working on Investment Tracker [Subset](https://getsubset.com/)`,
     `🧐 Helping **Startups** Build **MVP's** with [Linear](https://getlinear.com/)`,
+    `🎲 Developing **Utility Applications** and **Video Games** with [SQRT](https://sqrtt.com/)`,
     `👨‍💻 Investing in Stocks, Crypto, & Software Startups`,
     `📝 Writing a fictional novel`,
     `💬 Conversating with the world through [X](https://x.com/)`,
