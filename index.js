@@ -28,7 +28,7 @@ const badgeConfigs = [{
         badgeText: 'aymenbou.com',
         labelBgColor: '0A0A0A',
         logoBgColor: '0A0A0A',
-        logo: 'Google',
+        logo: 'maildotru',
         link: 'https://aymenbou.com/',
     },
     {
@@ -66,7 +66,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />`;
+const gif = `<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm13eDcyMWJuYzB4eHYxZjh1YXc5ZG44dzRzZng5cDZuN2Nlbnl4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGC37Ky8b5OxO/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
     `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
