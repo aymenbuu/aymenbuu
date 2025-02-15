@@ -12,70 +12,70 @@ const axios = require('axios').default;
 
 md.use(mdEmoji);
 
-const BLOG_HOST = `https://blog.stanleylim.me`;
+const BLOG_HOST = `https://blog.aymenbou.com/`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://stanleylim.me/')}`);
-const introDescription = `I'm currently a software engineer at **${generateLink('Snapchat', 'https://www.snapchat.com/')}** and formerly at **${generateLink(
-    'AWS',
-    'https://aws.amazon.com/'
-)}** based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.`;
+const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Aymen', 'https://aymenbou.com/')}`);
+const introDescription = `I build, advise and invest in startups. I'm currently the sole founder of **${generateLink('Subset', 'https://www.getsubset.com/')}** , **${generateLink('Linear', 'https://www.getlinear.com/')}** & **${generateLink('SQRT', 'https://www.sqrtt.com/')}**, and formerly at **${generateLink(
+    'IBM',
+    'https://ibm.com/'
+)}** & **${generateLink('Lloyds Bank', 'https://www.tsb.co.uk/')}** based in 🇬🇧 London, UK.`;
 
-const notice = `🍌 Don't forget to get some Potassium 🍌`
+const notice = `</> Same day, different syntax </>`
 
 const badgeConfigs = [{
         name: 'Website',
-        badgeText: 'stanleylim.me',
+        badgeText: 'aymenbou.com',
         labelBgColor: '4E69C8',
         logoBgColor: '4E69C8',
-        logo: 'Firefox',
-        link: 'https://stanleylim.me',
+        logo: 'Google',
+        link: 'https://aymenbou.com/',
     },
     {
-        name: 'Medium',
-        badgeText: '@serbis',
+        name: 'Twitter',
+        badgeText: '@aymenbuu',
         labelBgColor: '14c767',
         logoBgColor: '14c767',
-        logo: 'Medium',
-        link: 'https://medium.com/@serbis',
+        logo: 'Twitter',
+        link: 'https://x.com/aymenbuu/',
     },
     {
         name: 'LinkedIn',
-        badgeText: '@serbis',
+        badgeText: '@aymenbuu',
         labelBgColor: '0077B5',
         logoBgColor: '0077B5',
         logo: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/serbis/',
+        link: 'https://www.linkedin.com/in/aymenbou/',
     },
     {
-        name: 'DevTo',
-        badgeText: '@spiderpig86',
+        name: 'Instagram',
+        badgeText: '@aymenbuu',
         labelBgColor: '0A0A0A',
         logoBgColor: '0A0A0A',
-        logo: 'dev.to',
-        link: 'https://dev.to/spiderpig86',
+        logo: 'Instagram',
+        link: 'https://instagram.com/aymenbuu/',
     },
     {
-        name: 'Spotify',
-        badgeText: '@Stanley%20Lim',
+        name: 'GitHub',
+        badgeText: '@aymenbuu',
         labelBgColor: '1ED760',
         logoBgColor: 'fff',
-        logo: 'Spotify',
-        link: 'https://open.spotify.com/user/1235099575',
+        logo: 'GitHub',
+        link: 'https://github.com/aymenbuu',
     },
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
 const gif = `<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />`;
-const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
+const factsTitle = generateTitle(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
-    `🔭 I’m currently working on [Cirrus](https://github.com/Spiderpig86/Cirrus).`,
-    `🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.`,
-    `👨‍💻 Most of my projects are available on [Github](https://github.com/Spiderpig86).`,
-    `📝 I <del>regulary</del> write articles on [my blog](${BLOG_HOST}).`,
-    `💬 Ping me about **react, koa, security, and cloud stuff**.`,
-    `📙 Check out my [resume](https://www.stanleylim.me/resume/resume.pdf).`,
-    `🎉 Fun Fact: 我也会讲中文。`,
+    `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
+    `🧐 Helping **Startups** Build **MVP's** with [Linear](https://getlinear.com/).`,
+    `👨‍💻 Investing in Stocks, Crypto, & Software Startups.`,
+    `📝 Writing a fictional novel.`,
+    `💬 Conversating with the world through [X](https://x.com/).`,
+    `📙 Find more [about me](https://www.aymenbou.com/about).`,
+    `🎉 Fun Fact: 「私はユダヤ系とアラブ系の血を引いており、母方を通じてダビデ王の子孫であり、父方を通じてムハンマドの子孫です。」`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
@@ -186,11 +186,11 @@ const toolsConfig = [{
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?username=aymenbuu&show_icons=true&count_private=true" alt="aymenbuu" />`;
 
 // Count is down, will they ever recover from this catastrophe? https://github.com/jwenjian/visitor-badge/issues/32
 // const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86)`;
-const visitors = `[![HitCount](https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square)](http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square)`;
+const visitors = `[![HitCount](https://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.svg?style=flat-square)](http://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.svg?style=flat-square)`;
 
 (async () => {
 
