@@ -66,7 +66,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" width="35%" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
+const gif = `<img align="right" width="35%" style="margin-top:40px;" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
 const factsTitle = generateTitle(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
     `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
@@ -190,7 +190,7 @@ const stats = `<img src="https://github-readme-stats.vercel.app/api?username=aym
 
 // Count is down, will they ever recover from this catastrophe? https://github.com/jwenjian/visitor-badge/issues/32
 // const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86)`;
-const visitors = `[![HitCount](https://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.svg?style=flat-square)](http://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.svg?style=flat-square)`;
+const visitors = `[![HitCount](https://hits.dwyl.com/aymenbuu/aymenbuu.svg?style=flat-square)](http://hits.dwyl.com/aymenbuu/aymenbuu.svg?style=flat-square)`;
 
 (async () => {
 
