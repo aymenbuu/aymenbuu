@@ -66,7 +66,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" width="35%" style="margin-top:100px;" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
+const gif = `<img align="right" width="35%" style="margin-top:100px !important;padding-top:100px !important;" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
 const factsTitle = generateTitle(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
     `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
@@ -189,7 +189,7 @@ const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generat
 const stats = `<img src="https://github-readme-stats.vercel.app/api?username=aymenbuu&show_icons=true&count_private=true" alt="aymenbuu" />`;
 
 // Count is down, will they ever recover from this catastrophe? https://github.com/jwenjian/visitor-badge/issues/32
-const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=aymenbuu.aymenbuu)`;
+// const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=aymenbuu.aymenbuu)`;
 // const visitors = `[![HitCount](https://hits.dwyl.com/aymenbuu/aymenbuu.svg?style=flat-square)](http://hits.dwyl.com/aymenbuu/aymenbuu.svg?style=flat-square)`;
 
 (async () => {
@@ -224,7 +224,6 @@ ${toolsTitle}\n
     ${tools}\n
 </p>\n
 ${stats}\n
-${visitors}
 `;
 
     const markdownContent = md.render(content);
