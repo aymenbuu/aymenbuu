@@ -1,24 +1,23 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<h2>Hey 👋, I'm <a href="https://aymenbou.com/">Aymen</a></h2>
+<p>I build, advise and invest in startups. I'm currently the sole founder of <strong><a href="https://www.getsubset.com/">Subset</a></strong> , <strong><a href="https://www.getlinear.com/">Linear</a></strong> &amp; <strong><a href="https://www.sqrtt.com/">SQRT</a></strong>, and formerly at <strong><a href="https://ibm.com/">IBM</a></strong> &amp; <strong><a href="https://www.tsb.co.uk/">Lloyds Bank</a></strong> based in 🇬🇧 London, UK.</p>
+<p><a href="https://aymenbou.com/"><img src="https://img.shields.io/badge/-aymenbou.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Google&amp;link=https://aymenbou.com/" alt="Website Badge"></a> <a href="https://x.com/aymenbuu/"><img src="https://img.shields.io/badge/-@aymenbuu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Twitter&amp;link=https://x.com/aymenbuu/" alt="Twitter Badge"></a> <a href="https://www.linkedin.com/in/aymenbou/"><img src="https://img.shields.io/badge/-@aymenbuu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/aymenbou/" alt="LinkedIn Badge"></a> <a href="https://instagram.com/aymenbuu/"><img src="https://img.shields.io/badge/-@aymenbuu-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Instagram&amp;link=https://instagram.com/aymenbuu/" alt="Instagram Badge"></a> <a href="https://github.com/aymenbuu"><img src="https://img.shields.io/badge/-@aymenbuu-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=GitHub&amp;link=https://github.com/aymenbuu" alt="GitHub Badge"></a></p>
+<p>&lt;/&gt; Same day, different syntax &lt;/&gt;</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ I've spent the last decade (growing list)</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🔭 Working on Investment Tracker <a href="https://getsubset.com/">Subset</a>.</li>
+<li>🧐 Helping <strong>Startups</strong> Build <strong>MVP's</strong> with <a href="https://getlinear.com/">Linear</a>.</li>
+<li>👨‍💻 Investing in Stocks, Crypto, &amp; Software Startups.</li>
+<li>📝 Writing a fictional novel.</li>
+<li>💬 Conversating with the world through <a href="https://x.com/">X</a>.</li>
+<li>📙 Find more <a href="https://www.aymenbou.com/about">about me</a>.</li>
+<li>🎉 Fun Fact: 「私はユダヤ系とアラブ系の血を引いており、母方を通じてダビデ王の子孫であり、父方を通じてムハンマドの子孫です。」</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+<p><a target="_blank" href="https://blog.aymenbou.com/">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -47,5 +46,5 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=aymenbuu&show_icons=true&count_private=true" alt="aymenbuu" />
+<p><a href="http://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.svg?style=flat-square"><img src="https://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.svg?style=flat-square" alt="HitCount"></a></p>

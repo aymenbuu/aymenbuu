@@ -195,16 +195,16 @@ const visitors = `[![HitCount](https://hits.dwyl.com/aymenbuu/aymenbuu/aymenbuu.
 (async () => {
 
     // Get blog entries
-    const response = await axios.get(`${BLOG_HOST}/page-data/index/page-data.json`);
-    const postData = response.data.result.data.allMarkdownRemark.edges;
+    // const response = await axios.get(`${BLOG_HOST}/page-data/index/page-data.json`);
+    // const postData = response.data.result.data.allMarkdownRemark.edges;
     let posts = ``;
 
-    postData.slice(0, Math.min(postData.length, 5)).map(post => {
-        const title = post.node.frontmatter.title;
-        const date = post.node.frontmatter.date;
-        const path = post.node.frontmatter.path;
-        posts += `<li><a target="_blank" href="${BLOG_HOST}${path}">${title} — ${date}</a></li>`;
-    });
+    // postData.slice(0, Math.min(postData.length, 5)).map(post => {
+    //     const title = post.node.frontmatter.title;
+    //     const date = post.node.frontmatter.date;
+    //     const path = post.node.frontmatter.path;
+    //     posts += `<li><a target="_blank" href="${BLOG_HOST}${path}">${title} — ${date}</a></li>`;
+    // });
 
     const content = `${introTitle}\n
 ${introDescription}\n
