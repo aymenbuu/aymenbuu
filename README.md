@@ -6,7 +6,7 @@
 <div id="toc"> <!-- both work, toc or user-content-toc -->
       <ul style="list-style: none;">
         <summary>
-          ## :zap: I've spent the last decade (growing list)
+            <h2>⚡ {title}</h2>
         </summary>
       </ul>
     </div>

@@ -252,7 +252,7 @@ function generateTitleImage(size, title) {
     return `<div id="toc"> <!-- both work, toc or user-content-toc -->
       <ul style="list-style: none;">
         <summary>
-          ${'#'.repeat(size)} ${title}
+            <h2>⚡ {title}</h2>
         </summary>
       </ul>
     </div>`
