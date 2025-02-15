@@ -67,7 +67,7 @@ const badgeConfigs = [{
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
 const gif = `<img align="right" width="35%" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
-const factsTitle = generateTitle(2, `:zap: I've spent the last decade (growing list)`);
+const factsTitle = generateTitleImage(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
     `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
     `🧐 Helping **Startups** Build **MVP's** with [Linear](https://getlinear.com/).`,
@@ -246,6 +246,16 @@ function generateIcon(iconConfig, toolsIconSize) {
 
 function generateTitle(size, title) {
     return `${'#'.repeat(size)} ${title}`;
+}
+
+function generateTitleImage(size, title) {
+    return `<div id="toc"> <!-- both work, toc or user-content-toc -->
+      <ul style="list-style: none;">
+        <summary>
+          ${'#'.repeat(size)} ${title}
+        </summary>
+      </ul>
+    </div>`
 }
 
 function generateLink(label, link) {
