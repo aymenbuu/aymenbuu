@@ -5,7 +5,6 @@
 <p>&lt;/&gt; Same day, different syntax &lt;/&gt;</p>
 <img align="right" width="35%" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <h2>⚡️ I've spent the last decade (growing list)</h2>
-<hr>
 <ul>
 <li>🔭 Working on Investment Tracker <a href="https://getsubset.com/">Subset</a>.</li>
 <li>🧐 Helping <strong>Startups</strong> Build <strong>MVP's</strong> with <a href="https://getlinear.com/">Linear</a>.</li>
