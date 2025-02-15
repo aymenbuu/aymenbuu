@@ -69,12 +69,12 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" width="35%" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />`;
 const factsTitle = generateTitleImage(2, `:zap: I've spent the last decade (growing list)`);
 const factsConfigs = [
-    `🔭 Working on Investment Tracker [Subset](https://getsubset.com/).`,
-    `🧐 Helping **Startups** Build **MVP's** with [Linear](https://getlinear.com/).`,
-    `👨‍💻 Investing in Stocks, Crypto, & Software Startups.`,
-    `📝 Writing a fictional novel.`,
-    `💬 Conversating with the world through [X](https://x.com/).`,
-    `📙 Find more [about me](https://www.aymenbou.com/about).`,
+    `🔭 Working on Investment Tracker [Subset](https://getsubset.com/)`,
+    `🧐 Helping **Startups** Build **MVP's** with [Linear](https://getlinear.com/)`,
+    `👨‍💻 Investing in Stocks, Crypto, & Software Startups`,
+    `📝 Writing a fictional novel`,
+    `💬 Conversating with the world through [X](https://x.com/)`,
+    `📙 Find more [about me](https://www.aymenbou.com/about)`,
     `🎉 Fun Fact: 「私はユダヤ系とアラブ系の血を引いており、母方を通じてダビデ王の子孫であり、父方を通じてムハンマドの子孫です。」`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
@@ -252,7 +252,7 @@ function generateTitleImage(size, title) {
     return `<div id="toc"> <!-- both work, toc or user-content-toc -->
       <ul style="list-style: none;">
         <summary>
-            <h2>⚡ {title}</h2>
+            <h2>⚡ ${title}</h2>
         </summary>
       </ul>
     </div>`

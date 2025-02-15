@@ -6,17 +6,17 @@
 <div id="toc"> <!-- both work, toc or user-content-toc -->
       <ul style="list-style: none;">
         <summary>
-            <h2>⚡ {title}</h2>
+            <h2>⚡ :zap: I've spent the last decade (growing list)</h2>
         </summary>
       </ul>
     </div>
 <ul>
-<li>🔭 Working on Investment Tracker <a href="https://getsubset.com/">Subset</a>.</li>
-<li>🧐 Helping <strong>Startups</strong> Build <strong>MVP's</strong> with <a href="https://getlinear.com/">Linear</a>.</li>
-<li>👨‍💻 Investing in Stocks, Crypto, &amp; Software Startups.</li>
-<li>📝 Writing a fictional novel.</li>
-<li>💬 Conversating with the world through <a href="https://x.com/">X</a>.</li>
-<li>📙 Find more <a href="https://www.aymenbou.com/about">about me</a>.</li>
+<li>🔭 Working on Investment Tracker <a href="https://getsubset.com/">Subset</a></li>
+<li>🧐 Helping <strong>Startups</strong> Build <strong>MVP's</strong> with <a href="https://getlinear.com/">Linear</a></li>
+<li>👨‍💻 Investing in Stocks, Crypto, &amp; Software Startups</li>
+<li>📝 Writing a fictional novel</li>
+<li>💬 Conversating with the world through <a href="https://x.com/">X</a></li>
+<li>📙 Find more <a href="https://www.aymenbou.com/about">about me</a></li>
 <li>🎉 Fun Fact: 「私はユダヤ系とアラブ系の血を引いており、母方を通じてダビデ王の子孫であり、父方を通じてムハンマドの子孫です。」</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
