@@ -245,7 +245,7 @@ function generateIcon(iconConfig, toolsIconSize) {
 }
 
 function generateTitle(size, title) {
-    return `${'#'.repeat(size)} ${title}\n`;
+    return `\n${'#'.repeat(size)} ${title}\n\n`;
 }
 
 function generateLink(label, link) {
