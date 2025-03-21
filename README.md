@@ -18,7 +18,7 @@
 <li>📝 Writing a fictional novel</li>
 <li>💬 Conversating with the world through <a href="https://x.com/">X</a></li>
 <li>📙 Find more <a href="https://www.aymenbou.com/about">about me</a></li>
-<li>🎉 Fun Fact: 「私はユダヤ系とアラブ系の血を引いており、母方を通じてダビデ王の子孫であり、父方を通じてムハンマドの子孫です。」</li>
+<li>🎉 Fun Fact: 「」</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
