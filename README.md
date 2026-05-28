@@ -1,15 +1,8 @@
-<h2>Hey 👋, I'm <a href="https://aymenbou.com/">Aymen</a></h2>
+<h2>Hey 👋, I'm <strong>Aymen</strong></h2>
 <p>I'm a developer based in 🇬🇧 London, UK.</p>
 <p><a href="https://github.com/aymenbuu"><img src="https://img.shields.io/badge/-@aymenbuu-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=GitHub&amp;link=https://github.com/aymenbuu" alt="GitHub Badge"></a></p>
 <p><code>Same day, different syntax</code></p>
-<img align="right" width="35%" src="https://media.giphy.com/media/Y349mkUUL76bwZHlJR/giphy.gif?cid=790b76110zikg9z4r2h6s45sel4rimgobgyr28qdj1tku784&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-<div id="toc"> <!-- both work, toc or user-content-toc -->
-      <ul style="list-style: none;">
-        <summary>
-            <h2>⚡ :zap: I've spent the last decade (growing list)</h2>
-        </summary>
-      </ul>
-    </div>
+
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
